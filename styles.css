@@ -11,6 +11,10 @@ body {
   background-color: #f2f2f2;
 }
 
+.main-content {
+  margin: 50px auto;
+}
+
 .navbar {
   display: flex;
   background-color: teal;
@@ -50,4 +54,9 @@ button {
   color: white;
   border-radius: 5px;
   cursor: pointer;
+}
+
+img {
+  height: 300px;
+  width: 250px;
 }
