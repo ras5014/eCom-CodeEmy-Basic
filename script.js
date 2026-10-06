@@ -36,7 +36,7 @@ const products = [
 //     alert("Product added to cart");
 // });
 
-const container = document.querySelector(".products");
+const container = document.querySelector(".products-grid");
 const searchInput = document.querySelector("#searchInput");
 
 // Function to display products

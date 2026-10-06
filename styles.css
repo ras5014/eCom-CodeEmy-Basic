@@ -29,7 +29,7 @@ body {
   gap: 20px;
 }
 
-.products {
+.products-grid {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
@@ -68,5 +68,3 @@ img {
 #cartBtn {
   background-color: blue;
 }
-
-
